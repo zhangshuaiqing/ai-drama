@@ -71,15 +71,14 @@
 |------|------|
 | **画面描述** | 少年低头看自己的脚和金黄色的麦粒。他的脚趾嵌入麦粒中，脚背上有泥和麦壳。麦粒铺得很均匀。他看了一会儿——并没有在等什么，只是看。 |
 | **人物及动作** | 低头看，然后画外音开始。 |
+| **对白** | 【画外音·中年林一鸣】"新麦子水分大，堆在一起两天就发霉了。得趁着大太阳赶紧晒干。一天翻好几遍，每一遍都得弯腰。" |
 | **光照与色调** | 同上。 |
 | **镜头描述** | 从人的脸慢慢往下移到脚和麦粒——非常慢，给人时间感受麦子的质感。 |
 | **时长** | 5秒 |
-| **生成提示词** | Same teenage boy looking down at his bare feet in golden wheat grains, grains covering his feet up to ankles, cereal texture under sunlight, slow camera movement, realistic, slight film grain, voice-over starts |
+| **生成提示词** | Same teenage boy looking down at his bare feet in golden wheat grains, grains covering his feet up to ankles, cereal texture under sunlight, slow camera movement, realistic, slight film grain, voice-over starts
 
-**画外音（中年林一鸣，TTS参考）：**
-> "新麦子水分大，堆在一起两天就发霉了。得趁着大太阳赶紧晒干。一天翻好几遍，每一遍都得弯腰。"
->
-> 语调：平静，不紧不慢。像是在跟一个不太熟的人说起很久以前的事。每一句话结尾不拖长，不叹气，不煽情。语速中等偏慢。每两句话之间有一个短暂的停顿。
+**画外音语调参考（TTS）：**
+> 平静，不紧不慢。像是在跟一个不太熟的人说起很久以前的事。每一句话结尾不拖长，不叹气，不煽情。语速中等偏慢。每两句话之间有一个短暂的停顿。
 
 ### 片段 006 — 父亲喊话
 
@@ -87,6 +86,7 @@
 |------|------|
 | **画面描述** | 院子另一头，林建国也在用木耙摊麦子。他头也没抬，边干活边大声喊："一鸣，那边角上没摊开，去扒拉一下。" |
 | **人物及动作** | 父亲弯腰干活，喊完继续干，没有停下来等回复。 |
+| **对白** | 林建国（头也不抬，声音沙哑）："一鸣，那边角上没摊开，去扒拉一下。" |
 | **光照与色调** | 同前。 |
 | **镜头描述** | 从林一鸣所在的位置看过去的视角——父亲在远处稍微模糊，声音先到，然后镜头切过去。 |
 | **时长** | 4秒 |
@@ -98,6 +98,7 @@
 |------|------|
 | **画面描述** | 少年应了一声"知道了"，转身走到院角——那里有一小堆没摊开的麦子，堆得比较厚。他弯腰，用木耙把这个位置推开、推匀。新推开的位置麦粒颜色更深。 |
 | **人物及动作** | 转身走→到位置→弯腰→推麦→直起腰看了看。 |
+| **对白** | 林一鸣（头也不回，声音不大）："知道了。" |
 | **光照与色调** | 同前。 |
 | **镜头描述** | 跟随少年走动——像有人举着手机在他身后慢慢跟着拍。角度在臀部高度。 |
 | **时长** | 5秒 |
@@ -133,6 +134,7 @@
 |------|------|
 | **画面描述** | 林建国回头看到儿子扛着麻袋在走，眉头皱了一下。"放下来，我来。"儿子没看他，咬着牙说"不用"。林建国没再说话，转回去继续扛自己的。 |
 | **人物及动作** | 父亲回头→皱眉→说话→儿子没看他、持续走→父亲看了他两秒→转回去继续干活。 |
+| **对白** | 林建国（皱眉）："放下来，我来。"<br>林一鸣（咬着牙，不看他）："不用。" |
 | **光照与色调** | 同上。 |
 | **镜头描述** | 中景双人固定，镜头在推车和麻袋之间。父亲说话时切到儿子，儿子说完回到父亲。 |
 | **时长** | 7秒 |
@@ -166,6 +168,7 @@
 |------|------|
 | **画面描述** | 贩子站起来，拍了拍手上的麦壳和土，这时候开始说价格。"还行，干了。色气一般啊，掺了点瘪的。"他的表情像是在聊一件很小的事。林建国站在对面，手插在口袋里，没接话。 |
 | **人物及动作** | 贩子站起来→拍手→说话时扫了一眼麻袋堆，然后又看回林建国。林建国全程不动，只在听到"憋了点"的时候下巴微微抬了一下——他在听，但他的表情告诉你他不同意。 |
+| **对白** | 粮食贩子（语气随意，拍手上的土）："还行，干了。色气一般啊，掺了点瘪的。" |
 | **光照与色调** | 同上。两个人的脸都在阳光下，没有阴影遮挡。 |
 | **镜头描述** | 中近景双人，相机在两米外——能看到两个人的全身姿态。手插口袋vs草帽下的眼睛。 |
 | **时长** | 8秒 |
@@ -177,6 +180,7 @@
 |------|------|
 | **画面描述** | 讨价还价的来回：贩子说"比市场价低一分五"，林建国说"低一分"。贩子笑了一下说"一分八"，林建国重复"一分"。两人对视了三秒——没有人移开目光。最后贩子先笑了，说"老林啊，你这个人。行，一分。" |
 | **人物及动作** | 说话的人语气不变，听的人表情不变。对视时两个人都没有眨眼的迹象。贩子先笑的时候不是真的高兴，是"算了"。 |
+| **对白** | 粮食贩子：""比市场价低一分五。"<br>林建国（不动）："低一分。"<br>粮食贩子（笑了一下）："一分八。"<br>林建国（不动，重复）："一分。"<br>（对视三秒）<br>粮食贩子（先笑了）："老林啊，你这个人。行，一分。" |
 | **光照与色调** | 同上。 |
 | **镜头描述** | 维持中景，不切换景别——同一镜头的持续对视比来回切画面更有张力。 |
 | **时长** | 12秒 |
@@ -188,6 +192,7 @@
 |------|------|
 | **画面描述** | 称重、装车。几个邻居过来帮忙——一人一袋，接力一样从院子传到皮卡旁。称的人大声报数，记账的人在纸上画正字。忙了大约一刻钟。最后一袋上车后，贩子从口袋里掏出一叠钞票，捻开，数给林建国。 |
 | **人物及动作** | 连续搬运动作，不说话。称重的人报数声穿插其间。 |
+| **对白** | 【背景音·称重人报数】"一百三——一百二十八——一百三十五——"（数字在背景中持续，不分主次） |
 | **光照与色调** | 下午阳光拉长影子。 |
 | **镜头描述** | 比之前远一点的全景——能看到整个劳动过程。相机固定，像站在院墙上看。 |
 | **时长** | 8秒 |
@@ -206,4 +211,152 @@
 
 ---
 
-【后续片段按同样格式逐一展开——菜地、玉米暴雨、挖山药、涂碘伏、大学宿舍、辅导员、考研出分、调剂、入学、建文件夹——完整版即将推送到文件】
+
+
+---
+
+### 片段 017 — 菜地·母亲教摘茄子
+
+| 项目 | 内容 |
+|------|------|
+| **画面描述** | 屋后一小片菜地，几排茄子秧和豆角架。初春的阳光不烈，空气中还有冬天尾巴的冷。母亲杨秀兰坐在一个小马扎上，膝盖上盖着一块旧布。她的腿脚不太利索——从轮椅上挪到马扎上花了几秒。林一鸣蹲在她旁边。 |
+| **人物及动作** | 杨秀兰指着茄子上深紫色的部分说"深紫色就是老了，能摘了。浅色的还能长几天。"林一鸣伸手去摘，她拦住他。"不能硬拽。"她示范：手掌托住茄子底部，轻轻往上一旋——茄子完整地摘下来了。林一鸣照做，摘下来了。 |
+| **面部表情与语调** | 杨秀兰语速不急，示范动作很轻很稳。林一鸣做对后母亲说"学得挺快"。林一鸣看着手里的豆角问"它自己长成这样的，为什么不能自己断？"杨秀兰愣了一秒笑了："你问的问题我答不上来。" |
+| **对白** | 杨秀兰（指着茄子，语速平缓）："深紫色就是老了，能摘了。浅色的还能长几天。"<br>（林一鸣伸手去摘，被拦住）<br>杨秀兰："不能硬拽。"<br>（杨秀兰示范后）<br>杨秀兰："学得挺快。"<br>林一鸣（看着手里的豆角）："它自己长成这样的，为什么不能自己断？"<br>杨秀兰（愣了一秒，笑了）："你问的问题我答不上来。" |
+| **光照与色调** | 初春柔光，微冷但柔和。阳光透过菜叶留下斑驳光影。 |
+| **镜头描述** | 侧面中景双人，固定机位。母亲展示摘茄子时镜头微微推近到手的特写。 |
+| **时长** | 14秒 |
+| **生成英文提示词** | Early spring backyard vegetable garden, mother in her 40s sitting on small stool teaching teenage son how to pick eggplants, she demonstrates gently twisting the fruit instead of pulling, the boy tries and succeeds, she says "you learn fast", he looks at the bean he picked and asks "if it grows naturally why can't it detach by itself", she pauses then smiles "I can't answer that", soft spring light through leaves, warm family teaching moment, realistic rural China |
+
+### 片段 018 — 玉米地·补种
+
+| 项目 | 内容 |
+|------|------|
+| **画面描述** | 9月初夏的玉米地。玉米秆已长到半人高，穗子垂头。空气闷热潮湿。父子俩在地头补种机器漏下的地角。父亲用镢头挖坑，林一鸣跟在后面放种子、覆土、踩实。动作配合默契，不说话。天边乌云在堆积。 |
+| **人物及动作** | 父亲挖坑→儿子放种覆土→踩实→跟上节奏→重复。两个人的节奏一致。 |
+| **光照与色调** | 夏末深绿，光线从玉米叶缝隙中穿过。天色变暗。 |
+| **镜头描述** | 侧面跟拍，在玉米行间平行移动，保持同速。 |
+| **时长** | 8秒 |
+| **生成英文提示词** | Late summer cornfield, tall green corn stalks, father and son at field edge sowing by hand where machine missed, father digs with hoe, son drops seeds and covers with foot, practiced teamwork, humid heavy air, cicada buzzing, dark clouds gathering at horizon, tracking shot moving parallel through corn rows |
+
+### 片段 019 — 暴雨躲雨
+
+| 项目 | 内容 |
+|------|------|
+| **画面描述** | 暴雨砸下来。雨点打在玉米叶上啪啪响。父子俩来不及跑出地，躲在路边杨树下。无雨衣，衣服湿透。林建国看着雨里的玉米地说"这雨来得不是时候。玉米再过半个月就收了。"林一鸣蹲在树下没说话，看着被雨打歪的玉米。只有雨声。 |
+| **人物及动作** | 蹲在树下→父亲看田→儿子也看田→不说话→雨水从脸往下淌。 |
+| **对白** | 林建国（看着雨里的玉米地）："这雨来得不是时候。玉米再过半个月就收了。" |
+| **光照与色调** | 暗灰雨幕，玉米从绿变墨绿。白色水幕。 |
+| **镜头描述** | 从树下往外拍雨幕。父子在画面两侧。最后3秒只有雨声。 |
+| **时长** | 10秒 |
+| **生成英文提示词** | Rainstorm hits cornfield, sudden heavy downpour, father and son trapped under poplar tree at field edge, soaking wet, no raincoats, father looking at rain-beaten corn "this rain comes at worst time, another half month to harvest", son squats in silence watching corn stalks bending, only sound of pouring rain, dark grey sky, heavy atmosphere, realistic |
+
+### 片段 020 — 深秋挖山药
+
+| 项目 | 内容 |
+|------|------|
+| **画面描述** | 深秋干枯的土地。天很高很蓝。林建国在前面用铁锹挖出一道到膝盖深的沟。林一鸣蹲在沟里用手从土里掏山药——不能断，断了就不值钱了。他的十根手指全部嵌在泥里，指甲是黑的。 |
+| **人物及动作** | 父亲挖沟→儿子蹲在沟里掏→掏出一根一米多长的完整山药→轻轻放在旁边→继续掏。掏的动作很慢，像在拆一枚钉子。 |
+| **光照与色调** | 干燥黄色土地，天很高很蓝，阳光亮但不暖。 |
+| **镜头描述** | 从上往下俯拍沟里：他的头顶、黑指甲的手、旁边的山药。 |
+| **时长** | 7秒 |
+| **生成英文提示词** | Deep autumn dry farm field, father digging a knee-deep trench with shovel, teenage son squatting in trench carefully pulling yams out of soil with bare hands, trying not to break them, fingernails packed with black dirt, one complete yam placed beside him, dry yellow earth, bright cold autumn sun, overhead view into trench, realistic detail |
+
+### 片段 021 — 家中涂碘伏
+
+| 项目 | 内容 |
+|------|------|
+| **画面描述** | 老式砖瓦房堂屋。夜晚。灯泡瓦数不高。杨秀兰坐轮椅。林一鸣推门进来。她翻看他的手——指关节磨红，指甲缝有泥。她转身拿出碘伏和棉签，低头给他涂。他站着没动。 |
+| **人物及动作** | 进门→伸手→母亲翻看→转身拿碘伏→涂→"你要是能把做这些东西的本事用到正地方就好了"→"我会的"。 |
+| **面部表情与语调** | 杨秀兰翻看他的手时嘴角往下抿了一下——心疼但不说。涂的时候很轻。说完那句话后没有追加"我说真的"——因为她是认真的。林一鸣说"我会的"时看着她的眼睛。 |
+| **对白** | 杨秀兰（低头涂碘伏，没有看他）："你要是能把做这些东西的本事用到正地方就好了。"<br>林一鸣（看着她的眼睛）："我会的。" |
+| **光照与色调** | 昏暗白炽灯，暖黄。墙上褪色奖状。 |
+| **镜头描述** | 中景双人固定。全程不移镜头。涂碘伏的影子和表情都在画面里。 |
+| **时长** | 15秒 |
+| **生成英文提示词** | Evening inside rural brick farmhouse, dim yellow bulb light, mother in wheelchair inspects son's worn hands with red knuckles and dirt under nails, she silently gets iodine and cotton swab, gently applies to his abrasions, after finishing she says "if you could use this skill for something real", the teenager looks at her "I will", warm yet restrained moment, no music, realistic |
+
+### 片段 022 — 人形草图木板
+
+| 项目 | 内容 |
+|------|------|
+| **画面描述** | 林一鸣从床底拽出一块旧木板。上面钉着一张手绘草图——人形轮廓，关节处画圆，旁边密密麻麻的标注。纸边卷了，字迹被擦糊。他看了很久后放回去。 |
+| **光照与色调** | 一盏老台灯。上方照在木板上。四周暗。 |
+| **镜头描述** | 俯拍桌面→缓慢推进到草图细节。 |
+| **时长** | 8秒 |
+| **生成英文提示词** | Teenager's bedroom at night, desk lamp as only light source, he pulls a wooden board from under bed with a hand-drawn humanoid robot sketch pinned to it, crude proportions but recognizable, joint positions marked, notes and numbers around it, paper edges curled, he traces the outline with his finger, looks at it for a long time, slow push-in to sketch detail |
+
+### 片段 023 — 大学宿舍·四足机器人
+
+| 项目 | 内容 |
+|------|------|
+| **画面描述** | 四年后。大学宿舍。林一鸣（20岁）在调一个3D打印的四足机器人。改参数→运行→走三步→第四步卡住→扶住→记数据。室友从上铺探出耳机"一鸣你那个玩意儿能当饭吃吗"——"现在不能"——"那你弄它干啥"——"不知道但我想看看它走稳了之后是什么样"。 |
+| **人物及动作** | 改参数→机器人走→卡住→扶住→对话→继续改参数。整个过程连续。 |
+| **面部表情与语调** | 调参数时专注。室友说话时不抬头但语气不敷衍。回答"不知道但我想看看"时没有犹豫——他不是在找借口，他是真这么想。 |
+| **对白** | 室友（从上铺探出耳机）："一鸣你那个玩意儿能当饭吃吗？"<br>林一鸣（低头调参数，不抬头）："现在不能。"<br>室友："那你弄它干啥？"<br>林一鸣（没有停顿，语气认真）："不知道。但我想看看它走稳了之后是什么样。" |
+| **光照与色调** | 宿舍日光灯冷白。桌面台灯暖白。 |
+| **镜头描述** | 侧面拍半身，对话时稍微拉开包括上铺。 |
+| **时长** | 14秒 |
+| **生成英文提示词** | College dormitory at night, 20-year-old student tuning a 3D-printed quadruped robot on desk surrounded by electronic parts, adjusts parameter and runs it, robot walks 3 steps then stumbles, roommate from top bunk "can that thing make you money", "not yet", "then why make it", "I don't know but I want to see what it looks like when it walks steady", focused expression, realistic Chinese university dorm life |
+
+### 片段 024 — 机器人大赛
+
+| 项目 | 内容 |
+|------|------|
+| **画面描述** | 全国大学生机器人大赛体育馆。座无虚席。铁牛一号在赛场搬运红色方块。被对手撞击后林一鸣拇指拨动开关切半自主模式——5秒内自动纠偏重新夹住方块继续搬运。98:87获胜。他放下遥控器，右手在微微发抖。 |
+| **人物及动作** | 紧张地操控→撞击→拨开关→注视自动纠偏完成→缓了一口气→放下遥控器→手在抖。 |
+| **面部表情与语调** | 撞击时没有惊呼——拇指已经在拨开关了。纠偏完成后他轻轻呼出一口气。没有笑。 |
+| **光照与色调** | 聚光灯打在赛场，观众席暗。 |
+| **镜头描述** | 观众席视角拍赛场撞击→切回他的脸（紧张→冷静→缓气）→他的手放下遥控器（特写颤抖）。 |
+| **时长** | 10秒 |
+| **生成英文提示词** | Robot competition stadium, packed audience, student controller's robot hit by opponent, he instantly switches to semi-autonomous mode, LIDAR scans, repositions, re-grasps fallen cube, continues task in under 5 seconds, final score 98-87 win, he puts down remote, his hand is slightly trembling, no celebration, just quiet relief, realistic competitive robotics event |
+
+### 片段 025 — 辅导员办公室
+
+| 项目 | 内容 |
+|------|------|
+| **画面描述** | 辅导员摊开成绩单。综合绩点排名23，保研名额10个。林一鸣坐在对面。指尖在膝盖上无意识画电路图。听完后站起来说"谢谢老师，我自己的路我自己走。"出门时阳光照在脸上。他没有眯眼。 |
+| **人物及动作** | 坐着听→手指画线→站起来→转身出门→阳光打在脸上。 |
+| **面部表情与语调** | 全程没有惊讶或失望的表情——他可能早就知道了。说话时语气平静。 |
+| **对白** | 辅导员（摊开成绩单）："一鸣啊，排名23，保研名额10个。你……"<br>林一鸣（安静听完，站起来）："谢谢老师。我自己的路我自己走。" |
+| **光照与色调** | 办公室内日光灯。门口一道明亮阳光。 |
+| **镜头描述** | 侧面双人→跟着他站起来→到门口时定格在阳光照在他脸上的瞬间。 |
+| **时长** | 8秒 |
+| **生成英文提示词** | University faculty office, professor explains student ranks 23rd with only 10 spots for postgraduate recommendation, student sits calmly listening, fingers unconsciously drawing circuit patterns on his knee, after professor finishes he stands "thank you, I'll find my own way", walks out into sunlight streaming through doorway, light hits his face, he doesn't squint, quiet determination |
+
+### 片段 026 — 考研出分·父亲倒酒
+
+| 项目 | 内容 |
+|------|------|
+| **画面描述** | 老家堂屋。晚上。林一鸣查到考研成绩——308分，过线了。他靠在椅背上闭上眼。林建国站在门口紧张地等。"过了。"林建国转身去厨房倒了半碗酒一口干了。 |
+| **人物及动作** | 查成绩→靠椅背→闭眼→站起来→"过了"→父亲倒酒→父亲干碗。 |
+| **面部表情与语调** | 林一鸣说话时笑了笑——不是开心的笑，是松了一口气的笑。林建国没说话倒酒干碗然后说"好。好。" |
+| **对白** | 林一鸣（看着屏幕，松了一口气）："过了。"<br>林建国（站门口）："多少？"<br>林一鸣："308。"<br>林建国（顿了一下，转身去厨房，倒酒干碗，放下碗）："好。好。" |
+| **光照与色调** | 堂屋白炽灯暖黄。酒在碗里反光。 |
+| **镜头描述** | 先拍屏幕和他→摇到父亲→倒酒干碗→父亲的脸在碗放下后有一个不易察觉的放松。 |
+| **时长** | 10秒 |
+| **生成英文提示词** | Evening in farmhouse living room, dim warm light, young man checking exam results on laptop, score 308, he passed, leans back eyes closed in relief, father waiting at doorway "how is it", "passed", father wordlessly goes to kitchen pours half a bowl of liquor and drinks it in one gulp, then "good, good", subtle joy, warm family moment |
+
+### 片段 027 — 走进XX工业大学
+
+| 项目 | 内容 |
+|------|------|
+| **画面描述** | 阴天。灰白色。XX工业大学校门口。林一鸣拖着行李箱走进来。站住看了看四周。深吸一口气。继续走。 |
+| **人物及动作** | 走进→站住→看四周→深吸气→继续走。 |
+| **对白** | 【画外音·中年林一鸣】"学校高不高大不大，跟你能做出什么东西——没有关系。" |
+| **光照与色调** | 阴天灰白微冷。 |
+| **镜头描述** | 正前方拍他走进校门。从远到近，他从镜头旁边走过，焦点留在背景校门上。 |
+| **时长** | 7秒 |
+| **生成英文提示词** | Young man in checkered shirt walks into a modest provincial engineering university campus gate, dragging suitcase, stops briefly to look around, takes a deep breath, continues walking, overcast grey day, voice-over "school size doesn't determine what you can make", muted colors, realistic |
+
+### 片段 028 — 建文件夹·灯亮一夜
+
+| 项目 | 内容 |
+|------|------|
+| **画面描述** | 深夜。研究生宿舍。林一鸣从箱子里拿出PLA人形骨架放在桌上。打开电脑。先建了一个"archive"文件夹把本科四年的资料拖进去。然后建了一个新文件夹——输入名字。光标闪烁。 |
+| **人物及动作** | 拿骨架放桌上→开电脑→建archive→拖资料→建新文件夹→输入名称→回车→靠在椅背上看着屏幕。 |
+| **面部表情与语调** | 整个过程没有太大的表情变化。但手指离开键盘后他在椅背上靠了好一会儿。画外音平静地讲述。窗外校园灯一盏接一盏灭。但他这盏灯亮了一整夜。 |
+| **对白** | 【画外音·中年林一鸣】"后来我一直在想，人这一生真正做出决定的那一刻，通常都不是什么轰轰烈烈的时刻。就是深夜、一盏灯、一个文件夹名字。" |
+| **光照与色调** | 只有屏幕和台灯。窗外黑暗。 |
+| **镜头描述** | 屏幕特写（光标→输入→回车）→缓慢后拉露出他上半身→继续拉窗户进入画面→最后俯拍他趴在桌上睡着了，屏幕亮着。 |
+| **时长** | 14秒 |
+| **生成英文提示词** | Late night in graduate dorm, single desk lamp illuminating corner, young man opens suitcase revealing PLA humanoid skeleton, places on desk center, opens laptop, first creates "archive" folder dragging in four years of files, then creates new folder named "Project-Humanoid", press enter, leans back staring at screen, campus windows outside going dark, his light stays on all night, top-down shot he falls asleep at desk laptop still on, hopeful ending |
